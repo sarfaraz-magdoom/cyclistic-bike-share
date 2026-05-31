@@ -3,10 +3,9 @@
 > **Google Data Analytics Professional Certificate | Capstone Project**  
 > Presented by **Magdoom Sarfaraz**
 
----
-
 > ⚠️ **Note:** To view the notebook properly, please use the below as GitHub's built-in preview does not render this notebook correctly.
-[Code Notebook](https://nbviewer.org/github/sarfaraz-magdoom/cyclistic-bike-share/blob/main/cyclistic-bike-share-case-study.ipynb) 
+
+>[Code Notebook](https://nbviewer.org/github/sarfaraz-magdoom/cyclistic-bike-share/blob/main/cyclistic-bike-share-case-study.ipynb) 
 
 ## 📌 Project Overview
 
