@@ -88,6 +88,7 @@ cyclistic-bike-share/
 
 - 📓 [Kaggle Notebook](https://www.kaggle.com/code/magdoomsarfaraz2021/cyclistic-bike-share-case-study)
 - 🎓 [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+- 🐱 [GitHub Repo](https://github.com/sarfaraz-magdoom/cyclistic-bike-share)
 
 ---
 
