@@ -5,6 +5,9 @@
 
 ---
 
+> ⚠️ **Note:** To view the notebook properly, please use the below as GitHub's built-in preview does not render this notebook correctly.
+>  [nbviewer link](https://nbviewer.org/github/sarfaraz-magdoom/cyclistic-bike-share/blob/main/cyclistic-bike-share-case-study.ipynb) 
+
 ## 📌 Project Overview
 
 This case study analyzes **Cyclistic**, a fictional bike-share company based in Chicago, as part of the Google Data Analytics Capstone. The goal is to understand how **annual members** and **casual riders** use Cyclistic bikes differently — and to develop data-driven marketing recommendations to convert casual riders into annual members.
@@ -73,6 +76,7 @@ Following the 6 phases of the data analysis process:
 2. **Station-based campaigns** — Place marketing at high-traffic casual rider stations
 3. **Ride duration incentives** — Offer perks for members who take longer rides to attract casual converters
 
+** Detailed Recommendations can be found in the 
 ---
 
 ## 📁 Repository Structure
@@ -89,6 +93,7 @@ cyclistic-bike-share/
 - 📓 [Kaggle Notebook](https://www.kaggle.com/code/magdoomsarfaraz2021/cyclistic-bike-share-case-study)
 - 🎓 [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 - 🐱 [GitHub Repo](https://github.com/sarfaraz-magdoom/cyclistic-bike-share)
+- [Code Notebook](https://nbviewer.org/github/sarfaraz-magdoom/cyclistic-bike-share/blob/main/cyclistic-bike-share-case-study.ipynb)
 
 ---
 
