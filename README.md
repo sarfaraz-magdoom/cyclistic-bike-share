@@ -3,7 +3,7 @@
 > **Google Data Analytics Professional Certificate | Capstone Project**  
 > Presented by **Magdoom Sarfaraz**
 
-> ⚠️ **Note:**To view the output in each of the code line, please use the below as GitHub's built-in preview does not render this notebook with the outputs
+> ⚠️ **Note:**To view the output in each of the code line, please use the below as GitHub's built-in preview is not rendering this notebook with the outputs
 
 >[Code Notebook](https://www.kaggle.com/code/magdoomsarfaraz2021/cyclistic-bike-share-case-study)
 
@@ -90,16 +90,15 @@ cyclistic-bike-share/
 ## 🔗 Links
 
 - 📓 [Kaggle Notebook](https://www.kaggle.com/code/magdoomsarfaraz2021/cyclistic-bike-share-case-study)
-- 🎓 [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+- 🎓 [Google Data Analytics Professional Certificate](https://www.credly.com/earner/earned/badge/b6f73d8c-0ed2-48dd-8fa4-b8352303234a)
 - 🐱 [GitHub Repo](https://github.com/sarfaraz-magdoom/cyclistic-bike-share)
-- [Code Notebook](https://nbviewer.org/github/sarfaraz-magdoom/cyclistic-bike-share/blob/main/cyclistic-bike-share-case-study.ipynb)
 
 ---
 
 ## 👤 Author
 
 **Magdoom Sarfaraz**
-BI Analyst @ Expedia Group via Concentrix | Google Data Analytics Certificate
+BI Analyst @ Expedia Group via Concentrix | Google Data Analytics Professional Certificate
 
 ---
 
