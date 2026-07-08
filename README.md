@@ -75,13 +75,14 @@ Following the 6 phases of the data analysis process:
 2. **Station-based campaigns** — Place marketing at high-traffic casual rider stations
 3. **Ride duration incentives** — Offer perks for members who take longer rides to attract casual converters
 
-** Detailed Recommendations can be found below **
+## Detailed Recommendations can be found below
 
 About 75% of Cyclistic's total number of rides in a year come from the six month period of May - October. The marketing team at cyclistic should run promotions during this period of the year to:
 
-Enhance chances to convert casual customers into annual customers.
-Use seasonal campaigns to increase margins.
-Increase visibility among your customers.
+1, Enhance chances to convert casual customers into annual customers.
+2, Use seasonal campaigns to increase margins.
+3, Increase visibility among your customers.
+
 There are about 1.45 million casual users and about 2.1 million member users. Recurring billing through annual memberships offers predictable revenue, hence the company is rightly focussed towards maximizing member users. For this purpose, the company can introduce an easy, customizable and flexible subscription model with deals, discounts, or promotions for new members.
 
 The casual users have an average ride length of about 35 minutes which is 2x that of a member user. The company should look for ways for promoting more shorter bike rides. A user with frequent short bike rides is likely to get annual subscription. For this purpose, the company can introduce awareness campaigns like "The Benefits of Going Short" for explaining the benefits of shorter bike rides to the general public and its existing casual customers.
